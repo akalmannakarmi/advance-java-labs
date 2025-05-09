@@ -1,7 +1,7 @@
 import java.sql.*;
 
 public class Q1 {
-    static final String URL = "jdbc:mariadb://localhost:3306/testdb";
+    static final String URL = "jdbc:mysql://localhost:3306/testdb";
     static final String USER = "user";
     static final String PASS = "your_password";
 
